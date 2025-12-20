@@ -1,6 +1,6 @@
-# Avexra AI
+# Avexra AI 
 **Building AI Solutions That Matter**
----
+
 Avexra AI is an MSME-registered AI & software services firm delivering
 custom AI solutions, automation systems, and intelligent applications.
 
@@ -10,16 +10,6 @@ custom AI solutions, automation systems, and intelligent applications.
 - AI-powered Dashboards
 - Web & Backend Systems
 - Custom AI Solutions
-
-## Tech Stack
-- Python, FastAPI, Flask
-- React, Next.js
-- LLMs (OpenAI, OSS)
-- PostgreSQL, Redis
-- Docker, GitHub Actions
-
-## Open Source
-We believe in practical open-source contributions and real-world AI systems.
 ---
 📧 avexraai@gmail.com  
 🌐 Website: Coming Soon
