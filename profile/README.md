@@ -1,12 +1,26 @@
-## Hi there 👋
+# Avexra AI
 
-<!--
+**Building AI Solutions That Matter**
 
-**Here are some ideas to get you started:**
+Avexra AI is an MSME-registered AI & software services firm delivering
+custom AI solutions, automation systems, and intelligent applications.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## What We Build
+- AI Agents & Workflow Automation
+- Intelligent Chatbots
+- AI-powered Dashboards
+- Web & Backend Systems
+- Custom AI Solutions
+
+## Tech Stack
+- Python, FastAPI, Flask
+- React, Next.js
+- LLMs (OpenAI, OSS)
+- PostgreSQL, Redis
+- Docker, GitHub Actions
+
+## Open Source
+We believe in practical open-source contributions and real-world AI systems.
+
+📧 avexraai@gmail.com  
+🌐 Website: Coming Soon
