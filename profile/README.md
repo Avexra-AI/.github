@@ -12,4 +12,4 @@ custom AI solutions, automation systems, and intelligent applications.
 - Custom AI Solutions
 ---
 📧 avexraai@gmail.com  
-🌐 Website: www.avexraai.com
+🌐 www.avexraai.com
